@@ -3,20 +3,11 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - description:
-    links:
-    - text: Name of project partner 1
-      href: http://example.com
-      new_window: true
-    - text: Prestigious and long name of project partner 2
-      href: http://example.com
-      new_window: true
-
-  - description: > # E.g. funding acknowledgement. Can be Markdown
-      This project is made with ❤ for open source.
-      See [`_data/footer.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/footer.yml)
-      to customize this text.
-    links:
+   - description: > # E.g. funding acknowledgement. Can be Markdown
+      Living Grasslands is funded through the2023-2024 Biodiversa+ EPSS joint research call BiodivNBS: Nature-based solutions for biodiversity, human well-being and transformative change (BiodivNBS. 
+      
+      It is co-funded by the following funding organisations: Swedish research council for sustainable development (FORMAS), South Africa’s Department of Science, Technology and Innovation (DSTI), and the Netherlands Organisation for Scientific Research (NWO). 
+     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml

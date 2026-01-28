@@ -7,11 +7,11 @@ baseurl: ""                   # Only required if your site is in a directory e.g
 repository: living-grasslands/website
 
 # SOCIAL PROFILES
-social:
+#social:
   #email: name@example.com
   #bluesky: bluesky_username.bsky.social
   #facebook: https://facebook.com/groups/group_id/
-  github: github_username               # Can also be a github_username/repository
+  #github: github_username               # Can also be a github_username/repository
   #disqus: disqus_sitename               # Enable Disqus comments from disqus_sitename.disqus.com
 
 # THEME SETTINGS (ALL OPTIONAL)

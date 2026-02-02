@@ -16,7 +16,7 @@
   email: name@example.com
 
 - name: Heidi Hawkins
-  role: WP 1, 4, & 5
+  role: Steering committee; WP 1, 4, & 5
   image: assets/images/people/heidi_hawkins.jpg
   description: >
     University of Cape Town
@@ -26,10 +26,28 @@
   linkedin: heidi-hawkins-000a
   github: hjhawkins
   email: heidi.hawkins@uct.ac.za
+  email: hhawkins@conservation.org
   website: https://science.uct.ac.za/department-biological-sciences/contacts/heidi-jayne-hawkins
 
-- name: Professor Hubert J. Farnsworth
-  role: CEO & Owner
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
+- name: Graham Kerley
+  role: Steering committee; WP 1 & 4
+  image: assets/images/people/graham_kerley.jpg
   description: >
-    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
+    Nelson Mandela University
+  orcid: 0000-0003-2702-5200
+  googlescholar: 85GX8x0AAAAJ&hl
+  linkedin: graham-kerley-38661213
+  researchgate: Graham-Kerley
+  email: graham.kerley@mandela.ac.za
+
+- name: Silja Zimmermann
+  role: WP 1 & 2
+  image: assets/images/people/silja_zimmermann.jpg
+  description: >
+    Utrecht University
+  orcid: 0000-0002-2232-911X
+  googlescholar: 5278TTsAAAAJ&hl
+  linkedin: siljazimmermann
+  researchgate: Silja-Zimmermann-3
+  email: s.zimmermann@uu.nl
+  website: https://www.uu.nl/staff/SZimmermann

@@ -78,7 +78,7 @@
 
 - name: Sheila M. Holmes
   role: WP 4
-  #image: assets/images/people/silja_zimmermann.jpg
+  image: assets/images/people/sheila_holmes.jpg
   description: >
     Swedish University of Agricultural Sciences
   orcid: 0000-0002-6420-5510
@@ -142,7 +142,7 @@
 
 - name: Floor van der Hilst
   role: WP 4
-  #image: assets/images/people/silja_zimmermann.jpg
+  image: assets/images/people/floor_vanderhilst.jpg
   description: >
     Utrecht University
   orcid: 0000-0002-6839-9375

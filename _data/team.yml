@@ -4,16 +4,14 @@
   role: Project Leader # Will appear next to name
   image:  # Can be external link
   description: > # Can be Markdown
-    
-  orcid: 0000-0000-0000-0000
-  researchgate: researchgate_username
-  googlescholar: googlescholar_username
-  bluesky: bluesky_username.bsky.social
-  mastodon: https://mastodon.social/@mastodon_username
-  twitter: twitter_username
-  linkedin: linkedin_username
-  github: github_username
-  email: name@example.com
+    Nelson Mandela University
+    Utrecht University
+    Swedish University of Agricultural Sciences
+  orcid: 0000-0002-8632-9469
+  researchgate: Joris-Cromsigt
+  googlescholar: jieZZaQAAAAJ
+  linkedin: joris-cromsigt-34a36627
+  email: joris.cromsigt@slu.se
 
 - name: Heidi Hawkins
   role: Steering committee; WP 1, 4, & 5
@@ -40,7 +38,7 @@
   email: graham.kerley@mandela.ac.za
 
 - name: Silja Zimmermann
-  role: WP 1 & 2
+  role: Postdoctoral researcher; WP 1 & 2
   image: assets/images/people/silja_zimmermann.jpg
   description: >
     Utrecht University
@@ -50,3 +48,118 @@
   researchgate: Silja-Zimmermann-3
   email: s.zimmermann@uu.nl
   website: https://www.uu.nl/staff/SZimmermann
+
+- name: Michael Cramer
+  role: WP 4
+  #image: assets/images/people/silja_zimmermann.jpg
+  description: >
+    University of Cape Town
+  orcid: 0000-0003-0989-3266
+  googlescholar: GOhxTOEAAAAJ&hl
+  email: michael.cramer@uct.ac.za
+
+- name: Mariska te Beest
+  role: WP 4
+  #image: assets/images/people/silja_zimmermann.jpg
+  description: >
+    Utrecht University
+  orcid: 0000-0003-3673-4105
+  googlescholar: mJUClvIAAAAJ
+  email: m.tebeest@uu.nl
+
+- name: Tim Hofmeester
+  role: WP 4
+  #image: assets/images/people/silja_zimmermann.jpg
+  description: >
+    Swedish University of Agricultural Sciences
+  orcid: 0000-0003-2101-5482
+  googlescholar: 7t-L88MAAAAJ
+  email: tim.hofmeester@slu.se
+
+- name: Sheila M. Holmes
+  role: WP 4
+  #image: assets/images/people/silja_zimmermann.jpg
+  description: >
+    Swedish University of Agricultural Sciences
+  orcid: 0000-0002-6420-5510
+  googlescholar: b4uuKFAAAAAJ&hl
+  linkedin: sheila-holmes-17aa838a
+  researchgate: Sheila-Holmes
+  github: smholmes3
+  email: sheila.holmes@slu.se 
+
+- name: Leocadia Zhou
+  role: Steering committee; WP 3
+  #image: assets/images/people/silja_zimmermann.jpg
+  description: >
+    University of Fort Hare
+  orcid: 0000-0002-0344-4710
+  googlescholar: -d-BF68AAAAJ
+  email: lzhou@ufh.ac.za
+
+- name: Lavhelesani Simba
+  role: WP 4
+  #image: assets/images/people/silja_zimmermann.jpg
+  description: >
+    University of Fort Hare
+  orcid: 0000-0002-7259-0498
+  googlescholar: QUEjQXIAAAAJ&hl
+  linkedin: lavhelesani-dembe-simba-ph-d-430a6457
+  researchgate: Lavhelesani-Simba
+  email: lsimba@ufh.ac.za
+
+- name: Marjanneke Vije
+  role: Steering committee; WP 3
+  #image: assets/images/people/silja_zimmermann.jpg
+  description: >
+    Utrecht University
+  orcid: 0000-0002-3024-8838
+  googlescholar: fajIgQ0AAAAJ
+  #linkedin: marjannekevijge
+  #researchgate: Marjanneke-Vijge
+  email: m.j.vijge@uu.nl
+
+- name: Ine Dorresteijn
+  role: Steering committee; WP 2
+  #image: assets/images/people/silja_zimmermann.jpg
+  description: >
+    Utrecht University
+  orcid: 0000-0001-9785-4982
+  googlescholar: ue89-k0AAAAJ
+  #linkedin: marjannekevijge
+  #researchgate: Marjanneke-Vijge
+  email: i.dorresteijn@uu.nl
+
+- name: Nicky McLeod
+  role: Steering committee
+  #image: assets/images/people/silja_zimmermann.jpg
+  description: >
+    Environmental and Rural Solutions
+  orcid: 0000-0001-9785-4982
+  googlescholar: ue89-k0AAAAJ
+  linkedin: nicky-mcleod-b3b2a249
+  email: nicky@enviros.co.za
+
+- name: Floor van der Hilst
+  role: WP 4
+  #image: assets/images/people/silja_zimmermann.jpg
+  description: >
+    Utrecht University
+  orcid: 0000-0002-6839-9375
+  googlescholar: OaLS53wAAAAJ
+  email: f.vanderhilst@uu.nl
+
+#- name:  
+  #role:
+  #image:  # Can be external link
+  #description: > # Can be Markdown
+    
+  #orcid: 0000-0000-0000-0000
+  #researchgate: researchgate_username
+  #googlescholar: googlescholar_username
+  #bluesky: bluesky_username.bsky.social
+  #mastodon: https://mastodon.social/@mastodon_username
+  #twitter: twitter_username
+  #linkedin: linkedin_username
+  #github: github_username
+  #email: name@example.com

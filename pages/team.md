@@ -7,9 +7,10 @@ permalink: /team/
 
 ## Partners
 
-&nbsp; | Organization | Country
---- | --- | ---
-![logo](/assets/images/logos/slu_logo_webb.png) | [Department of Wildlife, Fish and Environmental Studies](https://www.slu.se/en/about-slu/organisation/departments/department-of-wildlife-fish-and-environmental-studies/research/), Swedish University of Agricultural Sciences (SLU) | Sweden
+|  | Organization | Country |
+| --- | --- | --- |
+| <img src="/assets/images/logos/slu_logo_webb.png" alt="SLU logo" style="height:60px;"> | [Department of Wildlife, Fish and Environmental Studies](https://www.slu.se/en/about-slu/organisation/departments/department-of-wildlife-fish-and-environmental-studies/research/), Swedish University of Agricultural Sciences (SLU) | Sweden |
+| <img src="/assets/images/logos/NMU_on_white.jpg" alt="NMU logo" style="height:60px;"> | [Centre for African Conservation Ecology](https://ace.mandela.ac.za/), Nelson Mandela University (NMU) | South Africa |
 
 
 ## People 

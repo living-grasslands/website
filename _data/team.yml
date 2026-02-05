@@ -4,8 +4,8 @@
   role: Project Leader # Will appear next to name
   image:  # Can be external link
   description: > # Can be Markdown
-    Nelson Mandela University
-    Utrecht University
+    Nelson Mandela University;
+    Utrecht University;
     Swedish University of Agricultural Sciences
   orcid: 0000-0002-8632-9469
   researchgate: Joris-Cromsigt
@@ -17,7 +17,7 @@
   role: Steering committee; WP 1, 4, & 5
   image: assets/images/people/heidi_hawkins.jpg
   description: >
-    University of Cape Town
+    University of Cape Town;
     Conservation South Africa
   orcid: 0000-0001-9334-0669
   googlescholar: QArZRgYAAAAJ

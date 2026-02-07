@@ -2,7 +2,7 @@
 
 - name: Joris P.G.M. Cromsigt
   role: Project Leader # Will appear next to name
-  image:  # Can be external link
+  image: assets/images/people/joris_cromsigt.jpg # Can be external link
   description: > # Can be Markdown
     Nelson Mandela University;
     Utrecht University;

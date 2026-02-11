@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Living Grasslands
-description: Ecological function for local livelihoods
+description: Restoring biodiversity-livelihood relations
 background: 
     img: /assets/images/banners/ERS/ers_grassland.jpg
     by: "© ERS"

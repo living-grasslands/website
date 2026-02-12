@@ -51,7 +51,7 @@
 
 - name: Michael Cramer
   role: WP 4
-  #image: assets/images/people/silja_zimmermann.jpg
+  #image: assets/images/people/.jpg
   description: >
     University of Cape Town
   orcid: 0000-0003-0989-3266
@@ -60,7 +60,7 @@
 
 - name: Mariska te Beest
   role: WP 4
-  #image: assets/images/people/silja_zimmermann.jpg
+  image: assets/images/people/mariska_te_beest.jpg
   description: >
     Utrecht University
   orcid: 0000-0003-3673-4105

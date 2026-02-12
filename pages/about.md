@@ -1,25 +1,26 @@
 ---
 title: About
-description: Here you can describe your project, lab or yourself. Or remove this page altogether if you don't want to do that.
+description: Testing real-world grassland restoration scenarios at the biodiversity-climate-livelihood nexus
 background:
-  img: https://images.unsplash.com/photo-1475906089153-644d9452ce87?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80
-  by: CHUTTERSNAP
-  href: https://unsplash.com/photos/UmncJq4KPcA
+  img: /assets/images/banners/Landscape4_SMH.JPG
+  by: Sheila Holmes
+  #href: 
 permalink: /about/
 ---
 
-{:.alert .alert-warning}
-The source file for this page is [`pages/about.md`](https://raw.githubusercontent.com/peterdesmet/petridish/main/pages/about.md).
+## Aims
+Living Grasslands explores how restoring grassy ecosystems can benefit both people and nature while supporting climate resilience. We work with local partners to test real-world wilding scenarios that strengthen biodiversity, support livelihoods, and inform climate solutions. 
+Living Grasslands focuses on the biodiversity-climate-livelihood nexus in the montane grasslands of the uMzimvubu Catchment, Eastern Cape, South Africa as a ‘living lab’. The uMzimvubu catchment is the third-largest catchment of South Africa and one of the last remaining undammed catchments in South Africa. The area is rich in biodiversity, including many endemic species, but is also one of the poorest regions of South Africa with persistently high unemployment. 
+The catchment hosts a growing number of innovative restoration and conservation initiatives, providing a gradient of diverse land uses, land tenures and restoration levels. Working with local citizen scientists, this allows us to perform space-for-time experiments to test whether and how these existing restoration interventions affect plant and animal diversity and related ecosystem services. We will combine this scientific knowledge with indigenous knowledge about how biodiversity is valued for ecotourism, traditional medicine, wild foods, and recreational and esthetic values.  
+By sharing our findings and unique transdisciplinary approach locally and internationally, we aim to influence communities and policymakers to advance wilding as a Nature-based Solution (NbS) in grasslands globally.  
+ 
+## Why is this relevant? 
+Grassy ecosystems cover about 40% of land on Earth but only 8% of global grasslands are under some form of protection. They are among the systems most threatened by land-use change such as mining, conversion to agricultural land, and afforestation. Despite their importance for biodiversity, carbon storage, water provisioning, and livelihoods, very few grassy ecosystems have been targeted for NbS. This is particularly true for the Global South that includes most of the world’s grassy ecosystems. Our project co-creates and evaluates (re)wilding as NbS for grassy ecosystems, with a focus on a South African catchment threatened by wildlife extirpation, habitat loss, unplanned fire and grazing, and invasive alien plants.  
 
-This is a default page. See [configuration]({{ '/docs/configuration/' | relative_url }}) to learn more about **pages**.
+## Our approach
+Living Grasslands addresses this challenge through a transdisciplinary collaboration with a team of four South African and two European universities, two NGOs that have been active in the landscape for decades (Conservation South Africa, Environmental & Rural Solutions), and the local communities and private landowners in the area. As a team, we work together to 
+1. assess what biodiversity means in the eyes of the local people and what plural values they associate to various components of biodiversity, 
+2. set up participatory monitoring hubs, where community members and scientists jointly monitor biodiversity and associated livelihood values, 
+3. integrate the local and scientific knowledge to co-create potential pathways to restore people-nature relationships. 
 
-To remove this page, you need to:
-
-- Remove `pages/about.md`
-- Update `_data/navigation.yml` to remove the link to this page from the top navigation.
-
-## Some gibberish
-
-Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brought be deep [abundantly light green](http://example.com) they're living green years firmament thing fly moving land, divide good spirit you'll fruitful waters one land us thing a man dry doesn't created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is. Dominion shall very. Above.
-
-He land lights. Give and lights upon subdue life. Lesser saw seas own have can't kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they're grass called open. Let bearing god. Their shall from third very beast won't may upon. Fruitful, years appear given a. For to and multiply given is greater together days god. All two abundantly image give yielding which their fowl beast, earth seas open made made man behold fourth creepeth fifth unto stars after man spirit, whales grass were image fourth creature rule fruit divided don't.
+Through these objectives, the project aims to develop ecological and biodiversity restoration scenarios in an inclusive way, building on the needs, visions and indigenous knowledge of the people living in the living lab, and determine the trade-offs and synergies in these scenarios for biodiversity and people across diverse land tenure systems and ecological gradients.

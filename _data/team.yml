@@ -60,7 +60,7 @@
 
 - name: Mariska te Beest
   role: WP 4
-  image: assets/images/people/mariska_te_beest.jpg
+  image: assets/images/people/mariska_tebeest.jpg
   description: >
     Utrecht University
   orcid: 0000-0003-3673-4105

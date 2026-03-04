@@ -18,7 +18,7 @@ We are measuring biodiversity, climate, and livelihood values along existing wil
 #### <i class="fa-solid fa-binoculars"></i> WP4 — Scientific knowledge
 We are measuring biodiversity, climate, and livelihood values along existing wilding and land tenure contrasts through scientific methods and participatory monitoring approaches. 
 
-#### <i class="fa-solid fa-handshake"></i> WP5 — Final scenarios and pathways
+#### <i class="fa-solid fa-handshake"></i> WP5 — Knowledge use and outreach
 We will use the knowledge gained in WPs 2, 3 & 4 to generate local impact and upscale our African-centred nature-based solutions via local and transnational outreach activities. 
 
 

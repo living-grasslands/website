@@ -9,3 +9,55 @@ table td img {
   display: block;
   margin: auto;
 }
+
+.values-figure {
+  display: flex;
+  gap: 5px;
+  margin: 3rem 0;
+  height: 500px;
+}
+
+.values-left {
+  display: flex;
+  flex-direction: column;
+  flex: 1.2;
+  gap: 5px;
+}
+
+.value {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 20px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.value h3 {
+  margin: 0;
+  font-size: 1.6rem;
+}
+
+.climate {
+  flex: 1;
+  background-image: url('/assets/images/figures/ERS/climate.jpg');
+}
+
+.livelihood {
+  flex: 1;
+  background-image: url('/assets/images/figures/ERS/livelihood.jpg');
+}
+
+.biodiversity {
+  flex: 0.8;
+  background-image: url('/assets/images/figures/ERS/biodiversity.jpeg');
+}
+
+.credit {
+  position: absolute;
+  bottom: 6px;
+  right: 10px;
+  font-size: 0.7rem;
+  opacity: 0.8;
+}

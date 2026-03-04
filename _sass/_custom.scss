@@ -10,6 +10,8 @@ table td img {
   margin: auto;
 }
 
+
+// Formatting for the values figure on the homepage
 .values-figure {
   display: flex;
   gap: 5px;
@@ -60,4 +62,63 @@ table td img {
   right: 10px;
   font-size: 0.7rem;
   opacity: 0.8;
+}
+
+
+// Formatting for the bottom quicklinks section on the homepage
+.quicklinks {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+  margin: 2rem 0 3rem 0;
+}
+
+.quicklink {
+  display: block;
+  padding: 18px 22px;
+  border-left: 1px solid #e6e6e6;
+  text-decoration: none;
+  color: inherit;
+}
+
+.quicklink:first-child {
+  border-left: none;
+}
+
+.quicklink h3 {
+  margin: 0 0 10px 0;
+  font-size: 1.45rem;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.quicklink p {
+  margin: 0 0 14px 0;
+  font-size: 1.05rem;
+  opacity: 0.9;
+  line-height: 1.5;
+  max-width: 260px;
+}
+
+.quicklink .btnlike {
+  display: inline-block;
+  font-weight: 600;
+  opacity: 0.95;
+}
+
+/* Mobile: stack */
+@media (max-width: 900px) {
+  .quicklinks {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .quicklinks {
+    grid-template-columns: 1fr;
+  }
+}
+
+.container {
+  max-width: 1300px;
 }

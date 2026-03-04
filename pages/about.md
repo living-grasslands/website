@@ -24,3 +24,16 @@ Living Grasslands addresses this challenge through a transdisciplinary collabora
 3. integrate the local and scientific knowledge to co-create potential pathways to restore people-nature relationships. 
 
 Through these objectives, the project aims to develop ecological and biodiversity restoration scenarios in an inclusive way, building on the needs, visions and indigenous knowledge of the people living in the living lab, and determine the trade-offs and synergies in these scenarios for biodiversity and people across diverse land tenure systems and ecological gradients.
+
+
+
+
+<p align="center" style="margin-top: 50px;">
+<img src="{{ '/assets/images/figures/Wilding_actions_ecosystem_services.png' | relative_url }}" width="700">
+</p>
+
+<p align="center"><em>
+Wilding actions with gradients in the study area and the potential ecosystem services supported by them.<br>
+<span class="figure-credit">Figure by Joris Cromsigt</span>
+</em></p>
+

@@ -19,4 +19,14 @@ We are measuring biodiversity, climate, and livelihood values along existing wil
 We are measuring biodiversity, climate, and livelihood values along existing wilding and land tenure contrasts through scientific methods and participatory monitoring approaches. 
 
 #### <i class="fa-solid fa-handshake"></i> WP5 — Final scenarios and pathways
-We will co-create the final scenarios and pathways that lead to them, using this knowledge to generate local impact and upscale our African-centred nature-based solutions via local and transnational outreach activities. 
+We will use the knowledge gained in WPs 2, 3 & 4 to generate local impact and upscale our African-centred nature-based solutions via local and transnational outreach activities. 
+
+
+<p align="center" style="margin-top: 50px;">
+<img src="{{ '/assets/images/figures/Overview_WPs.png' | relative_url }}" width="700">
+</p>
+
+<p align="center"><em>
+Work package 1 was completed in the first few months of the project. We are currently engaged in WPs 2, 3 & 4.<br>
+<span class="figure-credit">Figure by Joris Cromsigt</span>
+</em></p>

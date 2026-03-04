@@ -26,6 +26,15 @@
   email: heidi.hawkins@uct.ac.za; hhawkins@conservation.org
   website: https://science.uct.ac.za/department-biological-sciences/contacts/heidi-jayne-hawkins
 
+- name: Michael Cramer
+  role: WP 4
+  #image: assets/images/people/.jpg
+  description: >
+    University of Cape Town
+  orcid: 0000-0003-0989-3266
+  googlescholar: GOhxTOEAAAAJ&hl
+  email: michael.cramer@uct.ac.za
+
 - name: Graham Kerley
   role: Steering committee; WP 1 & 4
   image: assets/images/people/graham_kerley.jpg
@@ -36,57 +45,6 @@
   linkedin: graham-kerley-38661213
   researchgate: Graham-Kerley
   email: graham.kerley@mandela.ac.za
-
-- name: Silja Zimmermann
-  role: Postdoctoral researcher; WP 1 & 2
-  image: assets/images/people/silja_zimmermann.jpg
-  description: >
-    Utrecht University
-  orcid: 0000-0002-2232-911X
-  googlescholar: 5278TTsAAAAJ&hl
-  linkedin: siljazimmermann
-  researchgate: Silja-Zimmermann-3
-  email: s.zimmermann@uu.nl
-  website: https://www.uu.nl/staff/SZimmermann
-
-- name: Michael Cramer
-  role: WP 4
-  #image: assets/images/people/.jpg
-  description: >
-    University of Cape Town
-  orcid: 0000-0003-0989-3266
-  googlescholar: GOhxTOEAAAAJ&hl
-  email: michael.cramer@uct.ac.za
-
-- name: Mariska te Beest
-  role: WP 4
-  image: assets/images/people/mariska_tebeest.jpg
-  description: >
-    Utrecht University
-  orcid: 0000-0003-3673-4105
-  googlescholar: mJUClvIAAAAJ
-  email: m.tebeest@uu.nl
-
-- name: Tim Hofmeester
-  role: WP 4
-  #image: assets/images/people/silja_zimmermann.jpg
-  description: >
-    Swedish University of Agricultural Sciences
-  orcid: 0000-0003-2101-5482
-  googlescholar: 7t-L88MAAAAJ
-  email: tim.hofmeester@slu.se
-
-- name: Sheila M. Holmes
-  role: WP 4
-  image: assets/images/people/sheila_holmes.jpg
-  description: >
-    Swedish University of Agricultural Sciences
-  orcid: 0000-0002-6420-5510
-  googlescholar: b4uuKFAAAAAJ&hl
-  linkedin: sheila-holmes-17aa838a
-  researchgate: Sheila-Holmes
-  github: smholmes3
-  email: sheila.holmes@slu.se 
 
 - name: Leocadia Zhou
   role: Steering committee; WP 3
@@ -108,6 +66,15 @@
   researchgate: Lavhelesani-Simba
   email: lsimba@ufh.ac.za
 
+- name: Mariska te Beest
+  role: WP 4
+  image: assets/images/people/mariska_tebeest.jpg
+  description: >
+    Utrecht University
+  orcid: 0000-0003-3673-4105
+  googlescholar: mJUClvIAAAAJ
+  email: m.tebeest@uu.nl
+
 - name: Marjanneke Vije
   role: Steering committee; WP 3
   #image: assets/images/people/silja_zimmermann.jpg
@@ -121,7 +88,7 @@
 
 - name: Ine Dorresteijn
   role: Steering committee; WP 2
-  #image: assets/images/people/silja_zimmermann.jpg
+  image: assets/images/people/ine_dorresteijn.jpeg
   description: >
     Utrecht University
   orcid: 0000-0001-9785-4982
@@ -129,16 +96,6 @@
   #linkedin: marjannekevijge
   #researchgate: Marjanneke-Vijge
   email: i.dorresteijn@uu.nl
-
-- name: Nicky McLeod
-  role: Steering committee
-  #image: assets/images/people/silja_zimmermann.jpg
-  description: >
-    Environmental and Rural Solutions
-  orcid: 0000-0001-9785-4982
-  googlescholar: ue89-k0AAAAJ
-  linkedin: nicky-mcleod-b3b2a249
-  email: nicky@enviros.co.za
 
 - name: Floor van der Hilst
   role: WP 4
@@ -148,6 +105,61 @@
   orcid: 0000-0002-6839-9375
   googlescholar: OaLS53wAAAAJ
   email: f.vanderhilst@uu.nl
+
+- name: Tim Hofmeester
+  role: WP 4
+  image: assets/images/people/tim_hofmeester.jpg
+  description: >
+    Swedish University of Agricultural Sciences
+  orcid: 0000-0003-2101-5482
+  googlescholar: 7t-L88MAAAAJ
+  linkedin: tim-hofmeester
+  researchgate: Tim-Hofmeester
+  github: Tim-Hofmeester
+  email: tim.hofmeester@slu.se
+
+- name: Sheila M. Holmes
+  role: WP 4
+  image: assets/images/people/sheila_holmes.jpg
+  description: >
+    Swedish University of Agricultural Sciences
+  orcid: 0000-0002-6420-5510
+  googlescholar: b4uuKFAAAAAJ&hl
+  linkedin: sheila-holmes-17aa838a
+  researchgate: Sheila-Holmes
+  github: smholmes3
+  email: sheila.holmes@slu.se 
+
+- name: Nicky McLeod
+  role: Steering committee; WP 1, 2, 3, 4 & 5
+  #image: assets/images/people/silja_zimmermann.jpg
+  description: >
+    Environmental and Rural Solutions
+  orcid: 0000-0001-9785-4982
+  googlescholar: ue89-k0AAAAJ
+  linkedin: nicky-mcleod-b3b2a249
+  email: nicky@enviros.co.za
+
+- name: Alice Barlow-Zambodla
+  #role: WP 4
+  #image: assets/images/people/floor_vanderhilst.jpg
+  description: >
+    Csonservation South Africa
+  #email: f.vanderhilst@uu.nl
+
+- name: Silja Zimmermann
+  role: Postdoctoral researcher; WP 1 & 2
+  image: assets/images/people/silja_zimmermann.jpg
+  description: >
+    Utrecht University
+  orcid: 0000-0002-2232-911X
+  googlescholar: 5278TTsAAAAJ&hl
+  linkedin: siljazimmermann
+  researchgate: Silja-Zimmermann-3
+  email: s.zimmermann@uu.nl
+  website: https://www.uu.nl/staff/SZimmermann
+
+
 
 #- name:  
   #role:

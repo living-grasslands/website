@@ -21,7 +21,7 @@ permalink: /
     <span class="btnlike">Explore →</span>
   </a>
 
-  <a class="quicklink" href="{{ '/partners/' | relative_url }}">
+  <a class="quicklink" href="{{ '/team/' | relative_url }}">
     <h3>Our Team</h3>
     <p>We have a diverse team of academic and societal partners from 5 South African and European universities and 2 South African NGOs.</p>
     <span class="btnlike">Meet the team →</span>

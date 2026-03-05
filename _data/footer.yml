@@ -9,25 +9,25 @@ columns:
       It is co-funded by the following funding organisations: Swedish research council for sustainable development (FORMAS), South Africa’s Department of Science, Technology and Innovation (DSTI), and the Netherlands Organisation for Scientific Research (NWO).
 
       <div style="display:flex; gap:25px; flex-wrap:wrap; align-items:center;">
-        <img src="{{ '/assets/images/logos/biodiversa_logo.svg' | relative_url }}"
+        <img src="/website/assets/images/logos/biodiversa_logo.svg"
              alt="BIODIVERSA+"
              style="height:60px;">
 
-        <img src="{{ '/assets/images/logos/formas.png' | relative_url }}"
+        <img src="/website/assets/images/logos/formas.png"
              alt="Formas"
              style="height:35px;">
 
-        <img src="{{ '/assets/images/logos/DSTI-logo-colour_transparent.png' | relative_url }}"
+        <img src="/website/assets/images/logos/DSTI-logo-colour_transparent.png"
              alt="DSTI"
              style="height:95px;">
 
-        <img src="{{ '/assets/images/logos/NWO_full_colour.jpg' | relative_url }}"
+        <img src="/website/assets/images/logos/NWO_full_colour.jpg"
              alt="NWO"
              style="height:85px;">
       </div>
 #
 #            <!-- Co-funded by the EU (not clickable) -->
-#            <img src="{{ '/assets/images/logos/Co-fundedbytheEU.png' | relative_url }}"
+#            <img src="/website/assets/images/logos/Co-fundedbytheEU.png"
 #               alt="Co-funded by the European Union"
 #               style="height:60px;">
 #         </div>

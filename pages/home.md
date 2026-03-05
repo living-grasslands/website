@@ -11,25 +11,25 @@ permalink: /
 <div class="quicklinks">
   <a class="quicklink" href="{{ '/about/' | relative_url }}">
     <h3>About us</h3>
-    <p>Living grasslands works with local partners to test real-world wilding scenarios that support biodiversity, livelihoods, and natural climate solutions. Learn more about our project, why it matters, and what we aim to deliver.</p>
+    <p>Living Grasslands co-creates wilding scenarios to support biodiversity and livelihoods in grasslands of the Eastern Cape, South Africa. </p>
     <span class="btnlike">Read more →</span>
   </a>
 
   <a class="quicklink" href="{{ '/work-packages/' | relative_url }}">
-    <h3>Work packages</h3>
-    <p>We will use five interrelated and iterative work packages to reach our goals. Learn about our unique and structured approach.</p>
+    <h3>Work Packages</h3>
+    <p>We will use five interrelated and iterative social and natural science work packages to reach our goals, combining indigenous and scientific knowledge. </p>
     <span class="btnlike">Explore →</span>
   </a>
 
   <a class="quicklink" href="{{ '/partners/' | relative_url }}">
-    <h3>Partners</h3>
-    <p>We have a diverse team of academic and societal partners from five universities and two South African NGOs.</p>
-    <span class="btnlike">Meet the partners →</span>
+    <h3>Our Team</h3>
+    <p>We have a diverse team of academic and societal partners from 5 South African and European universities and 2 South African NGOs.</p>
+    <span class="btnlike">Meet the team →</span>
   </a>
 
   <a class="quicklink" href="{{ '/outputs/' | relative_url }}">
     <h3>Outputs</h3>
-    <p>We publish the results of our work packages in diverse international academic journals. See our recent outputs.</p>
+    <p>We share the results of our work in peer-reviewed articles, policy pieces, popular science outputs, etc. See our recent outputs.</p>
     <span class="btnlike">View outputs →</span>
   </a>
 

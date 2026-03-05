@@ -11,31 +11,31 @@ columns:
       
          <div style="display:flex; gap:25px; flex-wrap:wrap; align-items:center;">
             <!-- Biodiversa (not clickable) -->
-            <img src="/assets/images/logos/biodiversa_logo.svg"
+            <img src="{{ '/assets/images/logos/biodiversa_logo.svg' | relative_url }}"
                alt="BIODIVERSA+"
                style="height:60px;">
       
          <div style="display:flex; gap:25px; flex-wrap:wrap; align-items:center;">
             <!-- Formas (not clickable) -->
-            <img src="/assets/images/logos/formas.png"
+            <img src="{{ '/assets/images/logos/formas.png' | relative_url }}"
                alt="Formas"
                style="height:35px;">
 
          <div style="display:flex; gap:25px; flex-wrap:wrap; align-items:center;">
             <!-- DSTI (not clickable) -->
-            <img src="/assets/images/logos/DSTI-logo-colour_transparent.png"
+            <img src="{{ '/assets/images/logos/DSTI-logo-colour_transparent.png' | relative_url }}"
                alt="DSTI"
                style="height:95px;">
 
          <div style="display:flex; gap:25px; flex-wrap:wrap; align-items:center;">
             <!-- NWO (not clickable) -->
-            <img src="/assets/images/logos/NWO_full_colour.jpg"
+            <img src="{{ '/assets/images/logos/NWO_full_colour.jpg' | relative_url }}"
                alt="NWO"
                style="height:85px;">
             
 #
 #            <!-- Co-funded by the EU (not clickable) -->
-#            <img src="/assets/images/logos/Co-fundedbytheEU.png"
+#            <img src="{{ '/assets/images/logos/Co-fundedbytheEU.png' | relative_url }}"
 #               alt="Co-funded by the European Union"
 #               style="height:60px;">
 #         </div>

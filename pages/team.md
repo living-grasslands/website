@@ -18,6 +18,14 @@ permalink: /team/
 | <img src="/assets/images/logos/CSA_logo.png" alt="CSA logo" style="height:60px;"> | [Conservation South Africa](https://south-africa.conservation.org/) | South Africa |
 
 
+<p align="center" style="margin-top: 50px;">
+<img src="{{ '/assets/images/people/living-grasslands-team.jpg' | relative_url }}" width="700">
+</p>
+
+<p align="center"><em>
+Project team meeting in Matatiele, September 2025.<br>
+<span class="figure-credit">Photo by Sheila Holmes</span>
+</em></p>
 
 
 ## People 

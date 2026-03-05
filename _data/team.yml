@@ -28,7 +28,7 @@
 
 - name: Michael Cramer
   role: WP 4
-  #image: assets/images/people/.jpg
+  image: assets/images/people/michael_cramer.jpg
   description: >
     University of Cape Town
   orcid: 0000-0003-0989-3266
@@ -48,7 +48,7 @@
 
 - name: Leocadia Zhou
   role: Steering committee; WP 3
-  #image: assets/images/people/silja_zimmermann.jpg
+  image: assets/images/people/leocadia_zhou.jpg
   description: >
     University of Fort Hare
   orcid: 0000-0002-0344-4710
@@ -57,7 +57,7 @@
 
 - name: Lavhelesani Simba
   role: WP 4
-  #image: assets/images/people/silja_zimmermann.jpg
+  image: assets/images/people/lavhelesani_simba.jpg
   description: >
     University of Fort Hare
   orcid: 0000-0002-7259-0498
@@ -77,7 +77,7 @@
 
 - name: Marjanneke Vije
   role: Steering committee; WP 3
-  #image: assets/images/people/silja_zimmermann.jpg
+  image: assets/images/people/marjanneke_vije.jpg
   description: >
     Utrecht University
   orcid: 0000-0002-3024-8838
@@ -93,8 +93,8 @@
     Utrecht University
   orcid: 0000-0001-9785-4982
   googlescholar: ue89-k0AAAAJ
-  #linkedin: marjannekevijge
-  #researchgate: Marjanneke-Vijge
+  #linkedin: 
+  #researchgate:
   email: i.dorresteijn@uu.nl
 
 - name: Floor van der Hilst
@@ -132,7 +132,7 @@
 
 - name: Nicky McLeod
   role: Steering committee; WP 1, 2, 3, 4 & 5
-  #image: assets/images/people/silja_zimmermann.jpg
+  image: assets/images/people/nicky_mcleod.png
   description: >
     Environmental and Rural Solutions
   orcid: 0000-0001-9785-4982
@@ -140,12 +140,21 @@
   linkedin: nicky-mcleod-b3b2a249
   email: nicky@enviros.co.za
 
-- name: Alice Barlow-Zambodla
-  #role: WP 4
-  #image: assets/images/people/floor_vanderhilst.jpg
+- name: Sissie Matela
+  #role: 
+  image: assets/images/people/sissie_matela.png
   description: >
-    Csonservation South Africa
-  #email: f.vanderhilst@uu.nl
+    Environmental and Rural Solutions
+  linkedin: sissie-matela-4959733a
+  email: sissie@enviros.co.za
+
+- name: Alice Barlow-Zambodla
+  #role: 
+  image: assets/images/people/alice_barlow-zambodla.jpg
+  description: >
+    Conservation South Africa
+  linkedin: alice-barlow-zambodla-bb3ba615
+  email: abarlow-zambodla@conservation.org
 
 - name: Silja Zimmermann
   role: Postdoctoral researcher; WP 1 & 2

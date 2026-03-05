@@ -37,11 +37,11 @@ table td img {
 }
 
 .livelihood {
-  background-image: url('{{ "/assets/images/figures/ERS/livelihood.jpg" | relative_url }}');
+  background-image: url('{{ site.baseurl }}/assets/images/figures/ERS/livelihood.jpg');
 }
 
 .biodiversity {
-  background-image: url('{{ "/assets/images/figures/ERS/biodiversity.jpeg" | relative_url }}');
+  background-image: url('{{ site.baseurl }}/assets/images/figures/ERS/biodiversity.jpeg');
 }
 
 .credit {

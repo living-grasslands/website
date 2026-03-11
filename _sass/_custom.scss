@@ -117,36 +117,37 @@ table td img {
 }
 
 // Formatting for the images on the about page
+/* ABOUT PAGE PHOTO STRIP */
+
 .about-photo-strip {
   display: flex;
   gap: 8px;
   margin: 2.5rem 0;
 }
 
-.photo-item {
+.about-photo-strip .photo-item {
   position: relative;
   flex: 1;
+  overflow: hidden; /* important */
 }
 
-.photo-item img {
+.about-photo-strip .photo-item img {
   width: 100%;
-  height: 170px;
+  height: 180px;
   object-fit: cover;
-  border-radius: 4px;
   display: block;
 }
 
 /* Credit overlay */
-.photo-item .credit {
+.about-photo-strip .credit {
   position: absolute;
   bottom: 6px;
   left: 6px;
   font-size: 0.75rem;
-  color: white;
-  background: rgba(0, 0, 0, 0.55);
+  color: #fff;
+  background: rgba(0, 0, 0, 0.6);
   padding: 2px 6px;
   border-radius: 3px;
-  line-height: 1.2;
 }
 
 /* Mobile */
@@ -155,11 +156,11 @@ table td img {
     flex-wrap: wrap;
   }
 
-  .photo-item {
+  .about-photo-strip .photo-item {
     flex: 1 1 calc(50% - 8px);
   }
 
-  .photo-item img {
+  .about-photo-strip .photo-item img {
     height: 140px;
   }
 }

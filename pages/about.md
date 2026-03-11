@@ -15,6 +15,30 @@ The uMzimvubu is South Africa's third-largest river catchment and one of the cou
 
 By sharing our findings and unique transdisciplinary approach locally and internationally, we aim to influence communities and policymakers to advance wilding as a Nature-based Solution (NbS) in grasslands globally.  
  
+<div class="about-photo-strip">
+
+  <div class="photo-item">
+    <img src="{{ '/assets/images/figures/ERS/ONR_square.jpg' | relative_url }}" alt="Landscape in the study area">
+    <span class="credit">Photo: ERS</span>
+  </div>
+
+  <div class="photo-item">
+    <img src="{{ '/assets/images/figures/ERS/protea.jpg' | relative_url }}" alt="Protea">
+    <span class="credit">Photo: ERS</span>
+  </div>
+
+  <div class="photo-item">
+    <img src="{{ '/assets/images/figures/ERS/Bearded_vulture_at_carcass.jpg' | relative_url }}" alt="Bearded vulture at carcass">
+    <span class="credit">Photo: ERS</span>
+  </div>
+
+  <div class="photo-item">
+    <img src="{{ '/assets/images/figures/ERS/Cattle_landscape.jpg' | relative_url }}" alt="Cattle in the landscape">
+    <span class="credit">Photo: ERS</span>
+  </div>
+
+</div>
+
 ## Why is this relevant? 
 Grassy ecosystems cover about 40% of land on Earth but only 8% of global grasslands are under some form of protection. They are among the systems most threatened by land-use change such as mining, conversion to agricultural land, and afforestation. Despite their importance for biodiversity, carbon storage, water provisioning, and livelihoods, very few grassy ecosystems have been targeted for NbS. This is particularly true for the Global South that includes most of the world’s grassy ecosystems. Our project co-creates and evaluates (re)wilding as NbS for grassy ecosystems, with a focus on a South African catchment threatened by wildlife extirpation, habitat loss, unplanned fire and grazing, and invasive alien plants.  
 

@@ -9,9 +9,10 @@ permalink: /about/
 ---
 
 ## Aims
-Living Grasslands explores how restoring grassy ecosystems can benefit both people and nature. We work with local partners to test real-world wilding scenarios that strengthen biodiversity and support livelihoods. 
-Living Grasslands focuses on the biodiversity-livelihood nexus in the montane grasslands of the uMzimvubu Catchment, Eastern Cape, South Africa as a ‘living lab’. The uMzimvubu catchment is South Africa's third-largest river catchment and one of the country's last major systems that remain undammed. The area is rich in biodiversity, including many endemic species, but is also one of the poorest regions of South Africa with persistently high unemployment. 
-The catchment hosts a growing number of innovative restoration and conservation initiatives, providing a gradient of diverse land uses, land tenures and restoration levels. Working with local citizen scientists, this allows us to perform space-for-time experiments to test whether and how these existing restoration interventions affect plant and animal diversity and related ecosystem services. We will combine this scientific knowledge with indigenous knowledge about how biodiversity is valued for ecotourism, traditional medicine, wild foods, and recreational and esthetic values.  
+Living Grasslands explores **how restoring grassy ecosystems can benefit both people and nature**. Working with local partners in the montane grasslands of the **uMzimvubu Catchment** in South Africa's Eastern Cape, we use the landscape as a "living lab" to test real-world wilding scenarios that strengthen biodiversity and support local livelihoods. 
+
+The uMzimvubu is South Africa's third-largest river catchment and one of the country's last major systems that remain undammed. The area is rich in biodiversity and endemism, but faces high levels of poverty and unemployment. A growing number of innovative restoration and conservation initiatives foster a gradient of diverse land uses, land tenures and restoration levels. Together with local citizen scientists, this allows us to perform space-for-time experiments to **test how these existing restoration interventions affect plant and animal diversity and related ecosystem services**. We will combine this scientific knowledge with indigenous knowledge about how biodiversity is valued for ecotourism, traditional medicine, wild foods, and recreational and esthetic values.  
+
 By sharing our findings and unique transdisciplinary approach locally and internationally, we aim to influence communities and policymakers to advance wilding as a Nature-based Solution (NbS) in grasslands globally.  
  
 ## Why is this relevant? 

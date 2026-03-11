@@ -2,8 +2,8 @@
 title: About
 description: Testing real-world grassland restoration scenarios at the biodiversity-climate-livelihood nexus
 background:
-  img: /assets/images/banners/Landscape4_SMH.JPG
-  by: Sheila Holmes
+  img: /assets/images/banners/Conservation_International/Cedarville_EC_Large_(c)CI.jpg
+  by: Conservation International
   #href: 
 permalink: /about/
 ---

@@ -1,7 +1,7 @@
 # Project team members listed below will appear on the /team page
 
 - name: Joris P.G.M. Cromsigt
-  role: Project Leader # Will appear next to name
+  role: Project Leader; WP 1, 2, 3, 4 & 5 # Will appear next to name
   image: assets/images/people/joris_cromsigt.png # Can be external link
   description: > # Can be Markdown
     Nelson Mandela University;
@@ -141,7 +141,7 @@
   email: nicky@enviros.co.za
 
 - name: Sissie Matela
-  #role: 
+  role: WP 1, 2, 3, 4 & 5
   image: assets/images/people/sissie_matela.png
   description: >
     Environmental and Rural Solutions
@@ -149,7 +149,7 @@
   email: sissie@enviros.co.za
 
 - name: Alice Barlow-Zambodla
-  #role: 
+  role: WP 1, 2, 3, 4 & 5
   image: assets/images/people/alice_barlow-zambodla.jpg
   description: >
     Conservation South Africa

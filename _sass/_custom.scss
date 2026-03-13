@@ -109,6 +109,13 @@ table td img {
 }
 
 
+//Link formatting for the homepage values figure
+.values-figure .value {
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+}
+
 
 // Formatting for figure credits
 .figure-credit {
@@ -191,3 +198,4 @@ table td img {
   font-size: 0.9rem;
   color: #555;
 }
+

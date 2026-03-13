@@ -8,7 +8,7 @@ permalink: /outputs/
 
 ## Presentations
 
-### 2026
+#### 2026
 
 **Living Grasslands: wilding as nature-based opportunity for grassy ecosystems under diverse land tenure systems**  
 Joris Cromsigt — Savanna Science Network Meeting, Kruger National Park, South Africa, 5 March 2026  

@@ -121,9 +121,12 @@ table td img {
   display: block;
 }
 
-.value h3,
-.value .credit {
+.value h3 {
   position: relative;
+  z-index: 2;
+}
+
+.value .credit {
   z-index: 2;
 }
 

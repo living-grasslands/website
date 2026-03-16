@@ -62,10 +62,3 @@ permalink: /biodiversity/
   </div>
 </div>
 
-  <!--  
-  <div class="gallery-item">
-    <img src="{{ '/assets/images/biodiversity/ERS/Disa_cooperi_nkau.jpg' | relative_url }}" alt="Description of photo 4">
-    <p class="gallery-caption">© ERS</p>
-  </div>
-  -->
-</div>

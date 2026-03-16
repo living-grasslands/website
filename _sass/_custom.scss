@@ -201,12 +201,29 @@ table td img {
   margin: 2rem 0;
 }
 
-.gallery-item img {
+.gallery-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.gallery-image-frame {
+  aspect-ratio: 1 / 1;
   width: 100%;
-  height: auto;          /* key change */
-  object-fit: cover;     /* not really needed now, but harmless */
+  background: #f7f7f7;
   border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.gallery-image-frame img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
   display: block;
+  border-radius: 4px;
 }
 
 .gallery-caption {

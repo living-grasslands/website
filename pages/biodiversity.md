@@ -32,6 +32,13 @@ permalink: /biodiversity/
     </div>
     <p class="gallery-caption"><em>Disa cooperi</em> (Cooper's Disa) © ERS</p>
   </div>
+   
+  <div class="gallery-item">
+    <div class="gallery-image-frame">
+      <img src="{{ '/assets/images/biodiversity/Sheila_Holmes/Bostrychia_hagedash_Hadada_Ibis_mating_pair.jpg' | relative_url }}" alt="<em>Bostrychia hagedash</em>; Hadada Ibis mating pair">
+    </div>
+    <p class="gallery-caption"><em>Bostrychia hagedash</em> (Hadada Ibis) mating pair © Sheila Holmes</p>
+  </div>
 
   <div class="gallery-item">
     <div class="gallery-image-frame">
@@ -46,6 +53,13 @@ permalink: /biodiversity/
     </div>
     <p class="gallery-caption"><em>Eucomis bicolor</em> (Variegated Pineapple Lily) © ERS</p>
   </div>
+  
+  <div class="gallery-item">
+    <div class="gallery-image-frame">
+      <img src="{{ '/assets/images/biodiversity/Sheila_Holmes/Anhinga_rufa_African_Darter.jpg' | relative_url }}" alt="<em>Anhinga rufa</em>; African Darter">
+    </div>
+    <p class="gallery-caption"><em>Anhinga rufa</em> (African Darter) © Sheila Holmes</p>
+  </div>
 
   <div class="gallery-item">
     <div class="gallery-image-frame">
@@ -59,6 +73,13 @@ permalink: /biodiversity/
       <img src="{{ '/assets/images/biodiversity/ERS/Satyrium_longicauda_Longtail_Satyre_1.jpg' | relative_url }}" alt="<em>Satyrium longicauda</em>; Longtail Satyre">
     </div>
     <p class="gallery-caption"><em>Satyrium longicauda</em> (Longtail Satyre) © ERS</p>
+  </div>
+
+  <div class="gallery-item">
+    <div class="gallery-image-frame">
+      <img src="{{ '/assets/images/biodiversity/Sheila_Holmes/Leucochrysum_alpinum_Alpine_Sunray.jpg' | relative_url }}" alt="<em>Leucochrysum alpinum</em>; Alpine Sunray">
+    </div>
+    <p class="gallery-caption"><em>Leucochrysum alpinum</em> (Alpine Sunray) © Sheila Holmes</p>
   </div>
 
   <div class="gallery-item">
@@ -87,6 +108,34 @@ permalink: /biodiversity/
       <img src="{{ '/assets/images/biodiversity/CSA/Dictyophorus_spumans_KoppieFoamGrasshopper_(c)_CSA_Zinathi Jikeka.jpg' | relative_url }}" alt="<em>Dictyophorus spumans</em>; Koppie Foam Grasshopper">
     </div>
     <p class="gallery-caption"><em>Dictyophorus spumans</em> (Koppie Foam Grasshopper) © CSA and Zinathi Jikeka</p>
+  </div>
+  
+  <div class="gallery-item">
+    <div class="gallery-image-frame">
+      <img src="{{ '/assets/images/biodiversity/CSA/Hycleus_oculatus_CMRBlisterbeetle_(c)_CSA_Zinathi Jikeka.jpg' | relative_url }}" alt="<em>Hycleus oculatus</em>; CMR Blisterbeetle">
+    </div>
+    <p class="gallery-caption"><em>Hycleus oculatus</em> (CMR Blisterbeetle) © CSA and Zinathi Jikeka</p>
+  </div>
+     
+  <div class="gallery-item">
+    <div class="gallery-image-frame">
+      <img src="{{ '/assets/images/biodiversity/Heidi_Hawkins/Eucomis_schijffii_Miniature_Eucomis.jpg' | relative_url }}" alt="<em>Eucomis schijffii</em>; Miniature Pineapple Lily">
+    </div>
+    <p class="gallery-caption"><em>Eucomis schijffii</em> (Miniature Pineapple Lily) © Heidi Hawkins</p>
+  </div>
+   
+  <div class="gallery-item">
+    <div class="gallery-image-frame">
+      <img src="{{ '/assets/images/biodiversity/CSA/Ibis_(c)_CSA_Qhamani_Dlamini.jpg' | relative_url }}" alt="Ibis">
+    </div>
+    <p class="gallery-caption">Ibis © CSA and Qhamani Dlamini</p>
+  </div>
+     
+  <div class="gallery-item">
+    <div class="gallery-image-frame">
+      <img src="{{ '/assets/images/biodiversity/Heidi_Hawkins/Eucomis_autumnalis_AutumnPineappleLily.jpg' | relative_url }}" alt="<em>Eucomis autumnalis</em>; Autumn Pineapple Lily">
+    </div>
+    <p class="gallery-caption"><em>Eucomis autumnalis</em> (Autumn Pineapple Lily) © Heidi Hawkins</p>
   </div>
 </div>
 

@@ -154,10 +154,23 @@ permalink: /biodiversity/
 
   <div class="gallery-item">
     <div class="gallery-image-frame">
-      <img src="{{ '/assets/images/biodiversity/Sheila_Holmes/Moraea_albicuspa_Whitetip_Uintjie.jpg' | relative_url }}" alt="<em>Moraea albicuspa</em>; Whitetip Uintjie">
+      <img src="{{ '/assets/images/biodiversity/Sheila_Holmes/Cyrtanthus_tuckii_Greentip_Firelily.jpg' | relative_url }}" alt="<em>Cyrtanthus tuckii</em>; Greentip Firelily">
     </div>
-    <p class="gallery-caption"><em>Moraea albicuspa</em> (Whitetip Uintjie) © Sheila Holmes</p>
+    <p class="gallery-caption"><em>Cyrtanthus tuckii</em> (Greentip Firelily) © Sheila Holmes</p>
   </div>
 
+  <div class="gallery-item">
+    <div class="gallery-image-frame">
+      <img src="{{ '/assets/images/biodiversity/Sheila_Holmes/Pelea_capreolus_Grey_Rhebok_pair.jpg' | relative_url }}" alt="<em>Pelea capreolus</em>; Grey Rhebok pair">
+    </div>
+    <p class="gallery-caption"><em>Pelea capreolus</em> (Grey Rhebok) © Sheila Holmes</p>
+  </div>
+
+  <div class="gallery-item">
+    <div class="gallery-image-frame">
+      <img src="{{ '/assets/images/biodiversity/Sheila_Holmes/Helichrysum_setosum_Sunny_Everlasting.jpg' | relative_url }}" alt="<em>Helichrysum setosum</em>; Sunny Everlasting">
+    </div>
+    <p class="gallery-caption"><em>Helichrysum setosum</em> (Sunny Everlasting) © Sheila Holmes</p>
+  </div>
 </div>
 

@@ -172,5 +172,47 @@ permalink: /biodiversity/
     </div>
     <p class="gallery-caption"><em>Helichrysum setosum</em> (Sunny Everlasting) © Sheila Holmes</p>
   </div>
+  
+  <div class="gallery-item">
+    <div class="gallery-image-frame">
+      <img src="{{ '/assets/images/biodiversity/Sheila_Holmes/Neotis_denhami_Denhams_Bustard_zoom.jpg' | relative_url }}" alt="<em>Neotis denhami</em>; Denham's Bustard">
+    </div>
+    <p class="gallery-caption"><em>Neotis denhami</em> (Denham's Bustard) © Sheila Holmes</p>
+  </div>
+  
+  <div class="gallery-item">
+    <div class="gallery-image-frame">
+      <img src="{{ '/assets/images/biodiversity/Sheila_Holmes/Ploceus_velatus_Southern_Masked_Weaver.jpg' | relative_url }}" alt="<em>Ploceus velatus</em>; Southern Masked Weaver">
+    </div>
+    <p class="gallery-caption"><em>Ploceus velatus</em> (Southern Masked Weaver) © Sheila Holmes</p>
+  </div>
+  
+  <div class="gallery-item">
+    <div class="gallery-image-frame">
+      <img src="{{ '/assets/images/biodiversity/Sheila_Holmes/Onychognathus_morio_Red-winged_Starling.jpg' | relative_url }}" alt="<em>Onychognathus morio</em>; Red-winged Starling">
+    </div>
+    <p class="gallery-caption"><em>Onychognathus morio</em> (Red-winged Starling) © Sheila Holmes</p>
+  </div>
+    
+  <div class="gallery-item">
+    <div class="gallery-image-frame">
+      <img src="{{ '/assets/images/biodiversity/Sheila_Holmes/Hesperantha_possibly_falcata_Sickle_Evening_Lily.jpg' | relative_url }}" alt="Sickle Evening Lily">
+    </div>
+    <p class="gallery-caption">Sickle Evening Lily © Sheila Holmes</p>
+  </div>
+  
+  <div class="gallery-item">
+    <div class="gallery-image-frame">
+      <img src="{{ '/assets/images/biodiversity/Sheila_Holmes/Damaliscus_pygargus_phillipsi_Blesbok.jpg' | relative_url }}" alt="<em>Damaliscus pygargus phillipsi</em>; Blesbok">
+    </div>
+    <p class="gallery-caption"><em>Damaliscus pygargus phillipsi</em> (Blesbok) © Sheila Holmes</p>
+  </div>
+  
+  <div class="gallery-item">
+    <div class="gallery-image-frame">
+      <img src="{{ '/assets/images/biodiversity/Sheila_Holmes/Promerops_gurneyi_Gurneys_Sugarbird_zoom.jpg' | relative_url }}" alt="<em>Promerops gurneyi</em>; Gurney's Sugarbird">
+    </div>
+    <p class="gallery-caption"><em>Promerops gurneyi</em> (Gurney's Sugarbird) © Sheila Holmes</p>
+  </div>
 </div>
 

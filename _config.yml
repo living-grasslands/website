@@ -2,7 +2,7 @@
 title: Living Grasslands                        # Title in top navigation bar (navbar) and <head>
 author: Living Grasslands project partners                    # Used for copyright statement in footer
 url: "https://www.livinggrasslands.org"
-baseurl:                    # MAKE BLANK ONCE I GET URL SET UP. Only required if your site is in a directory e.g. https://username.github.io/sitename
+baseurl: ""                   # MAKE BLANK ONCE I GET URL SET UP. Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.com/petridish/markdown/#links
 repository: living-grasslands/website

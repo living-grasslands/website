@@ -35,9 +35,9 @@ permalink: /biodiversity/
    
   <div class="gallery-item">
     <div class="gallery-image-frame">
-      <img src="{{ '/assets/images/biodiversity/Sheila_Holmes/Bostrychia_hagedash_Hadada_Ibis_mating_pair.jpg' | relative_url }}" alt="<em>Bostrychia hagedash</em>; Hadada Ibis mating pair">
+      <img src="{{ '/assets/images/biodiversity/Sheila_Holmes/Stegodyphus_dumicola_African_Social_Spider_web.jpg' | relative_url }}" alt="<em>Stegodyphus dumicola</em>; African Social Spider web">
     </div>
-    <p class="gallery-caption"><em>Bostrychia hagedash</em> (Hadada Ibis) mating pair © Sheila Holmes</p>
+    <p class="gallery-caption"><em>Stegodyphus dumicola</em> (African Social Spider) web © Sheila Holmes</p>
   </div>
 
   <div class="gallery-item">
@@ -137,5 +137,27 @@ permalink: /biodiversity/
     </div>
     <p class="gallery-caption"><em>Eucomis autumnalis</em> (Autumn Pineapple Lily) © Heidi Hawkins</p>
   </div>
+   
+  <div class="gallery-item">
+    <div class="gallery-image-frame">
+      <img src="{{ '/assets/images/biodiversity/Sheila_Holmes/Bostrychia_hagedash_Hadada_Ibis_mating_pair.jpg' | relative_url }}" alt="<em>Bostrychia hagedash</em>; Hadada Ibis mating pair">
+    </div>
+    <p class="gallery-caption"><em>Bostrychia hagedash</em> (Hadada Ibis) mating pair © Sheila Holmes</p>
+  </div>
+ 
+  <div class="gallery-item">
+    <div class="gallery-image-frame">
+      <img src="{{ '/assets/images/biodiversity/Sheila_Holmes/Moraea_albicuspa_Whitetip_Uintjie.jpg' | relative_url }}" alt="<em>Moraea albicuspa</em>; Whitetip Uintjie">
+    </div>
+    <p class="gallery-caption"><em>Moraea albicuspa</em> (Whitetip Uintjie) © Sheila Holmes</p>
+  </div>
+
+  <div class="gallery-item">
+    <div class="gallery-image-frame">
+      <img src="{{ '/assets/images/biodiversity/Sheila_Holmes/Moraea_albicuspa_Whitetip_Uintjie.jpg' | relative_url }}" alt="<em>Moraea albicuspa</em>; Whitetip Uintjie">
+    </div>
+    <p class="gallery-caption"><em>Moraea albicuspa</em> (Whitetip Uintjie) © Sheila Holmes</p>
+  </div>
+
 </div>
 

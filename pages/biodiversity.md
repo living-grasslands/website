@@ -189,7 +189,7 @@ permalink: /biodiversity/
   
   <div class="gallery-item">
     <div class="gallery-image-frame">
-      <img src="{{ '/assets/images/biodiversity/Sheila_Holmes/Onychognathus_morio_Red-winged_Starling.jpg' | relative_url }}" alt="<em>Onychognathus morio</em>; Red-winged Starling">
+      <img src="{{ '/assets/images/biodiversity/Sheila_Holmes/Onychognathus_morio_Red-winged_Starling1.jpg' | relative_url }}" alt="<em>Onychognathus morio</em>; Red-winged Starling">
     </div>
     <p class="gallery-caption"><em>Onychognathus morio</em> (Red-winged Starling) © Sheila Holmes</p>
   </div>

@@ -49,7 +49,7 @@ permalink: /livelihoods/
   
   <div class="gallery-item">
     <div class="gallery-image-frame">
-      <img src="{{ '/assets/images/livelihoods/CI/Sheep_(c)_CSA_Zinathi_Jikeka.jpg' | relative_url }}" alt="Sheep">
+      <img src="{{ '/assets/images/livelihoods/CSA/Sheep_(c)_CSA_Zinathi_Jikeka.jpg' | relative_url }}" alt="Sheep">
     </div>
     <p class="gallery-caption">Sheep. © CSA and Zinathi Jikeka</p>
   </div>
